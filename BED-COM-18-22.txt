@@ -1,1 +1,69 @@
 This is a signup feature
+* commit eff4798af2757c7ad6438ff39a3ad5fe12591c9c
+| Author: =enigma2659 <bed-com-18-22@unima.ac.mw>
+| Date:   Fri Mar 6 14:25:29 2026 +0200
+| 
+|     including a js file with author name
+| 
+* commit 1240c5495964d9cdf55ce1563830ac3ccaab867f
+| Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+| Date:   Fri Mar 6 14:22:32 2026 +0200
+| 
+|     including a css file in login feature folder
+| 
+* commit 202e5e09c03f60ae4e54c50b10830fc6ff77ac65
+| Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+| Date:   Fri Mar 6 14:21:29 2026 +0200
+| 
+|     REmoving a welcoming page branch
+|   
+*   commit e8b741beaf58457b02ee7c9ffca9529744760c6d
+|\  Merge: d8bc417 48f79a5
+| | Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+| | Date:   Fri Mar 6 13:35:41 2026 +0200
+| | 
+| |     Merge pull request #1 from Enigma2659/signup
+| |     
+| |     Add signup feature description to BED-COM-18-22.txt
+| | 
+| * commit 48f79a525f7edf2af5974d5a8fd609dbfaecec77
+| | Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+| | Date:   Fri Mar 6 12:58:48 2026 +0200
+| | 
+| |     Add signup feature description to BED-COM-18-22.txt
+| | 
+* | commit d8bc4178a90157864d7699cb3ccbfc51f30111ff
+| | Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+| | Date:   Fri Mar 6 13:13:24 2026 +0200
+| | 
+| |     new welcoming page
+| | 
+* | commit 668e2f72012fcd86aee3fa3c1b37c4f03d41f5e6
+|/  Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+|   Date:   Fri Mar 6 13:08:06 2026 +0200
+|   
+|       more updates
+|   
+| * commit 16765d4f7c624742abcbc6c0d1fa6bcaa81746c1
+| | Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+| | Date:   Fri Mar 6 13:21:07 2026 +0200
+| | 
+| |     Create login1 -
+| | 
+| * commit 0397d66bdca4362af19e51699791f918cb2256f9
+|/  Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+|   Date:   Fri Mar 6 12:58:03 2026 +0200
+|   
+|       Add login feature description to BED-COM-18-22.txt
+| 
+* commit ba001f754eb217fe0239569b2ae61c39e1344d5b
+| Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+| Date:   Fri Mar 6 12:45:57 2026 +0200
+| 
+|     Initial commit: add homepage HTML structure
+| 
+* commit 2a7d3ec9633bda44b140ab8f3f031a07b05f2374
+  Author: Enigma2659 <bed-com-18-22@unima.ac.mw>
+  Date:   Fri Mar 6 12:39:23 2026 +0200
+  
+      Initial commit
